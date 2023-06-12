@@ -1,0 +1,1 @@
+worker: bash somy.py
