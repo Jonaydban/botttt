@@ -9,6 +9,3 @@ pytube
 youtube-search
 sqlalchemy
 asyncio
-os
-json
-re
