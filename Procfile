@@ -1,1 +1,1 @@
-worker: bash somy.py
+worker: python3 sython.py
