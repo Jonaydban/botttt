@@ -4,12 +4,12 @@ from telethon.tl.functions.messages import ImportChatInviteRequest
 from telethon.sessions import StringSession
 import asyncio, json, os, re
  
-api_id_bot = 24106627 
-api_hash_bot = "6978bec96d690bb1f98ab3b2c8c54e83" # اب هاش
-bot = TelegramClient("Bot", api_id_bot, api_hash_bot).start(bot_token="6111107019:AAHj8_lg_yUSPWhHoOAxIAoFelLmJBf_XgA")
+api_id_bot = 23910531 
+api_hash_bot = "8c2802db0b56c6bd29282bd8fff933ef" # اب هاش
+bot = TelegramClient("Bot", api_id_bot, api_hash_bot).start(bot_token="6023715909:AAGQQyESjPK3f6NyrwTxoGllGqyldbsdEi4")
 
 
-owner_id = [5159123009] 
+owner_id = [1631148798] 
 collect, bots_to_collect, start_earn = True, [], False
 
 
